@@ -9,6 +9,8 @@
   - WITH clause
   - subquery
   - aggregate function & group by
+
+  replit: https://replit.com/@PornnapatK/homeworksqldsb10pornnapat#main.sql
 */
 
 .mode table

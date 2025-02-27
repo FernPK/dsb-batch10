@@ -1,4 +1,6 @@
-Following the `data_transformation` part of the `nycflights13` dataset, visualize the answers to these questions in R.
+# Data Visualization
+
+**Following the `data_transformation` part of the `nycflights13` dataset, visualize the answers to these questions in R.**
 
 1. Which carries have the best on-time performance, and how does this vary by airport (origin)?
 2. What is the distribution of flight distances, and how does this relate to flight delays?

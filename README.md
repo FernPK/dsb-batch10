@@ -1,9 +1,4 @@
 # Data Science Bootcamp 10
-Pornnapat's data science and analytics projects
+Pornnapat's Data Science and Analytics Projects
 
-## Personal projects
-1. SQL supermarket analysis
-2. SQL churn analysis
-3. R programming - Rock Paper Scissors
-4. Looker GA4 dashboard
-5. Linear regression model using caret
+This repository contains my projects from the Data Science Bootcamp 10. It showcases my work across various topics including SQL, R programming, Python, data visualization, and machine learning.
